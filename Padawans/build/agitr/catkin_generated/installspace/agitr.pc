@@ -1,0 +1,8 @@
+prefix=/home/local/ITAM/evenancil/Documents/Padawans/install
+
+Name: agitr
+Description: Description of agitr
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/local/ITAM/evenancil/Documents/Padawans/install/lib 
+Requires: 

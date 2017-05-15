@@ -1,0 +1,2 @@
+agitr
+-DCATKIN_DEVEL_PREFIX=/home/local/ITAM/evenancil/Documents/Padawans/devel -DCMAKE_INSTALL_PREFIX=/home/local/ITAM/evenancil/Documents/Padawans/install -G Unix Makefiles
